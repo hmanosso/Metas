@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Oswald:wght@200..700&display=swap');
+
+
+
+h1{
+    text-align: center;
+    color: aquamarine;
+    background-color: green;
+    font-size: 50px;
+    font-family: Oswald;
+}
+
+ul{
+    font-size: 30px;
+    color: black;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.titulo-meta{
+    background-color: bisque;
+    font-size: 60px;
+}
+
+.lista{
+    font-family: Anta;
+}

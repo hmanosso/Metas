@@ -1,31 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Anta&family=Oswald:wght@200..700&display=swap');
-
-
-
-h1{
-    text-align: center;
-    color: aquamarine;
-    background-color: green;
-    font-size: 50px;
-    font-family: Oswald;
-}
-
-ul{
-    font-size: 30px;
-    color: black;
-}
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Lobster&display=swap');
 
 body{
-    background-color: blanchedalmond;
+    background: linear-gradient(#ff8297b7, #ffffff, #99ceff);
 }
 
-.titulo-meta{
-    background-color: bisque;
-    font-size: 60px;
+li{
+    font-family: Lobster;
+    
 }
 
-.lista{
-    font-family: Anta;
+h1{
+    font-family: Concert One;
+    font-size: 80px;
 }
